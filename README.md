@@ -1,8 +1,6 @@
 # Touch-Typing-test
 
-# Typing Speed Test
-
-I have developed this typing speed tester using HTML5, CSS, DOM and Javascript. The tester displays 40 words at a time according to the difficulty chosen by the user.
+I developed Touch-Typing-test using HTML5, CSS, DOM and Javascript. It also has option to change the difficulty accordign to user.
 
 
 
